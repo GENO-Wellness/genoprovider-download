@@ -1,0 +1,14 @@
+{
+  "platform": "android",
+  "latestVersionCode": 1,
+  "latestVersionName": "1.0.0",
+  "minSupportedVersionCode": 1,
+  "forceUpdate": true,
+  "apkUrl": "https://github.com/GENO-Wellness/genoprovider-download/raw/main/downloads/GENO-Provider-v1.0.0.apk",
+  "sha256": "8eec1699773f03f3b5550317c582571f5c5ffebb3f2483bfd1cd377c97bbb9ba",
+  "releaseNotes": [
+    "Initial GENO Provider Android release",
+    "Connects providers to the GENO Wellness platform",
+    "Includes secure sign-in and provider workflows"
+  ]
+}
