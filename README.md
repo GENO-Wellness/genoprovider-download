@@ -4,7 +4,7 @@ GENO Provider helps healthcare and wellness providers stay connected with the GE
 
 ## Download
 
-[Download GENO Provider for Android](https://github.com/GENO-Wellness/genoprovider-download/raw/main/downloads/GENO-Provider-v1.0.5.apk)
+[Download GENO Provider for Android](https://github.com/GENO-Wellness/genoprovider-download/raw/main/downloads/GENO-Provider-v1.0.6.apk)
 
 Tap the download button above on your Android phone. After the download finishes, open the file to install GENO Provider.
 
